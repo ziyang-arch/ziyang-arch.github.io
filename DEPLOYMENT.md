@@ -23,12 +23,12 @@ If you see a `Permission denied (publickey)` error when pushing, you need to set
 ### Step 2: Push to GitHub
 
 ```bash
-git push -u origin main
+git push -u origin master
 ```
 
 This will:
 - Upload all your files to GitHub
-- Set `main` as the upstream branch
+- Set `master` as the upstream branch
 - Trigger the GitHub Actions workflow
 
 ### Step 3: Enable GitHub Pages
@@ -93,7 +93,7 @@ git add .
 git commit -m "Added new blog post: [title]"
 
 # 4. Push (triggers automatic rebuild and deployment)
-git push origin main
+git push origin master
 ```
 
 The site will automatically rebuild and deploy in ~1-2 minutes!
@@ -145,6 +145,6 @@ If `git push` fails with `Permission denied (publickey)`:
 Then you can:
 ```bash
 cd my-gate
-git push -u origin main
+git push -u origin master
 ```
 
