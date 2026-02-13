@@ -12,7 +12,7 @@ theme = 'PaperMod'
     [params.profileMode]
         enabled = true
         title = "Ziyang Jia"
-        subtitle = "PhD Student in CS @ UC Riverside | Researching LLM Inference & GPU Systems"
+        subtitle = "PhD Student in CS @ UC Riverside | GPU Systems for LLM "
         imageUrl = "url-to-your-photo.jpg" # Place photo in /static folder
         [[params.profileMode.buttons]]
             name = "Blog"
