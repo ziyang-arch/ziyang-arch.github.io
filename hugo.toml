@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [params]
     env = 'production'
-    description = "PhD Student at UC Riverside | Nvidia Intern"
+    description = "PhD Student at UC Riverside | Meta Intern | ex Nvidia Intern"
     author = "Ziyang"
     
     # Profile Mode (The "Academic" landing page)
