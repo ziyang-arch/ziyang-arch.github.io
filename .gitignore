@@ -1,5 +1,5 @@
 # Hugo build output
-#/public/
+/public/
 .hugo_build.lock
 
 # OS files
