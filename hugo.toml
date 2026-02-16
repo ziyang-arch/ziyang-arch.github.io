@@ -3,6 +3,20 @@ languageCode = 'en-us'
 title = 'Ziyang Jia'
 theme = 'PaperMod'
 
+[menu]
+    [[menu.main]]
+        name = "About me"
+        url = "/me/"
+        weight = 5
+    [[menu.main]]
+        name = "Blog"
+        url = "/posts/"
+        weight = 10
+    [[menu.main]]
+        name = "Publications"
+        url = "/publications/"
+        weight = 20
+
 [params]
     env = 'production'
     description = "PhD Student at UC Riverside | Meta Intern | ex Nvidia Intern"
@@ -14,12 +28,6 @@ theme = 'PaperMod'
         title = "Ziyang Jia"
         subtitle = "PhD Student in CS @ UC Riverside | GPU Systems for LLM "
         imageUrl = "url-to-your-photo.jpg" # Place photo in /static folder
-        [[params.profileMode.buttons]]
-            name = "Blog"
-            url = "/posts"
-        [[params.profileMode.buttons]]
-            name = "Publications"
-            url = "/publications"
 
     # Social Icons
     [[params.socialIcons]]

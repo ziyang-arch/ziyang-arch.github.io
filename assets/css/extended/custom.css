@@ -1,0 +1,33 @@
+/* Custom color theme: Soft Pearl / Parchment with Burgundy accent */
+:root {
+    --theme: #fdfaf6;
+    --entry: #faf7f2;
+    --primary: #2c2c2c;
+    --secondary: #5a5a5a;
+    --tertiary: #8d6959;
+    --content: #333333;
+    --code-bg: #f5f2f0;
+    --code-block-bg: #f5f2f0;
+    --border: #e8e4df;
+}
+
+:root[data-theme="dark"] {
+    --theme: #1a1a1a;
+    --entry: #242424;
+    --primary: #e0e0e0;
+    --secondary: #a0a0a0;
+    --tertiary: #c4c5ba;
+    --content: #e0e0e0;
+    --code-bg: #252525;
+    --code-block-bg: #252525;
+    --border: #333333;
+}
+
+/* Sticky header */
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--theme);
+    border-bottom: 1px solid var(--border);
+}
