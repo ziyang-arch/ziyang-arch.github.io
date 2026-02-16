@@ -27,7 +27,7 @@ theme = 'PaperMod'
         url = "https://github.com/ziyang-arch"
     [[params.socialIcons]]
         name = "linkedin"
-        url = "www.linkedin.com/in/ziyang-jia-systemforml"
+        url = "https://linkedin.com/in/ziyang-jia-systemforml"
     [[params.socialIcons]]
         name = "googlescholar"
         url = "https://scholar.google.com/citations?user=hKWh7p4AAAAJ&hl=en"
