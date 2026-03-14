@@ -1,6 +1,6 @@
 /* Custom color theme: Soft Pearl / Parchment with Burgundy accent */
 :root {
-    --theme: #fdfaf6;
+    /*--theme: #fdfaf6;
     --entry: #faf7f2;
     --primary: #2c2c2c;
     --secondary: #5a5a5a;
@@ -9,18 +9,42 @@
     --code-bg: #f5f2f0;
     --code-block-bg: #f5f2f0;
     --border: #e8e4df;
+    */
+     /* Background: soft gray with a subtle plum tint */
+     --theme: #f4f2f7;        /* light neutral with a hint of purple */
+     --entry: #f1eef5;        /* cards slightly darker than background */
+ 
+     /* Text: neutral‑to‑cool dark */
+     --primary: #26252d;
+     --secondary: #5c5a66;
+     --content: #302f38;
+ 
+     /* Accent: desaturated eggplant / plum */
+     --tertiary: #6d5870;
+ 
+     /* Code + borders: understated */
+     --code-bg: #ece8f2;
+     --code-block-bg: #ece8f2;
+     --border: #ddd7e4;
 }
 
 :root[data-theme="dark"] {
-    --theme: #1a1a1a;
-    --entry: #242424;
-    --primary: #e0e0e0;
-    --secondary: #a0a0a0;
-    --tertiary: #c4c5ba;
-    --content: #e0e0e0;
-    --code-bg: #252525;
-    --code-block-bg: #252525;
-    --border: #333333;
+    /* Background: warm dark brown */
+    --theme: #1f1813;
+    --entry: #271e18;
+
+    /* Text: slightly warm light */
+    --primary: #f3e9dc;
+    --secondary: #c7b8a4;
+    --content: #f3e9dc;
+
+    /* Accent: muted amber/brown */
+    --tertiary: #c29b5a;
+
+    /* Code + borders adjusted to be a bit brighter */
+    --code-bg: #2a211a;
+    --code-block-bg: #2a211a;
+    --border: #3a2b21;
 }
 
 /* Sticky header */
@@ -36,26 +60,41 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: calc(100vh - var(--header-height) - 80px);
+    min-height: calc(100vh - var(--header-height));
+}
+
+.profile-motto-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
 
 .profile-motto {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     font-weight: 500;
-    margin-top: auto;
-    margin-bottom: 0.5rem;
     text-align: center;
+    max-width: 32rem;
+    padding: 0 1.5rem;
+}
+
+.profile-bottom {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .profile-subtitle {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     color: var(--secondary);
     text-align: center;
-    margin-bottom: 0.75rem;
 }
 
 .profile-links {
-    margin-bottom: 2rem;
+    margin-top: 0.25rem;
 }
 
 /* Category filter bar for blog */
