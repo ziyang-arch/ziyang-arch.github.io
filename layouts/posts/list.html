@@ -38,10 +38,8 @@
 
 <div id="posts-container">
 {{- range $index, $page := $paginator.Pages }}
-{{- $class := "post-entry" }}
-{{- if eq $index 0 }}{{ $class = "first-entry" }}{{ end }}
 
-<article class="{{ $class }}" 
+<article class="post-entry" 
   {{- if $page.Params.categories }}
     data-categories="{{ range $i, $cat := $page.Params.categories }}{{ if $i }},{{ end }}{{ $cat | urlize }}{{ end }}"
   {{- else }}
