@@ -30,8 +30,15 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
-        <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" -}}
+        {{- with .motto }}
+        <div class="profile-motto">{{ . | markdownify }}</div>
+        {{- end }}
+        {{- with .subtitle }}
+        <div class="profile-subtitle">{{ . | markdownify }}</div>
+        {{- end }}
+        <div class="profile-links">
+            {{- partial "social_icons.html" -}}
+        </div>
 
         {{- with .buttons }}
         <div class="buttons">

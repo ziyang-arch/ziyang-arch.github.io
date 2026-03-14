@@ -1,6 +1,6 @@
 baseURL = "https://ziyang-arch.github.io/"
 languageCode = 'en-us'
-title = 'A Passanger on The Life of Boat' # I'm here to leave my trace 
+title = 'A Passanger' # on the life of boat I'm here to leave my trace 
 theme = 'PaperMod'
 
 [menu]
@@ -26,8 +26,11 @@ theme = 'PaperMod'
     [params.profileMode]
         enabled = true
         title = "A Passanger" 
-        subtitle = "PhD Student in CS @ UC Riverside | GPU Systems for LLM "
-        imageUrl = "url-to-your-photo.jpg" # Place photo in /static folder
+        motto = "I'm a passenger on this boat of life, here to leave my trace."
+        subtitle = "PhD Student in CS @ UC Riverside | GPU Systems for LLM"
+        #imageUrl = "/pictures/profile_volcanotop.jpeg" # Place photo in /static folder
+        #imageWidth = 180
+        #imageHeight = 180
 
     # Social Icons
     [[params.socialIcons]]
@@ -39,3 +42,8 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = "googlescholar"
         url = "https://scholar.google.com/citations?user=hKWh7p4AAAAJ&hl=en"
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
