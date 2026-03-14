@@ -1,4 +1,4 @@
 ---
 title: "Blog"
-description: "Notes, updates, and longer-form writing."
+description: "I write therefore I am"
 ---
