@@ -1,31 +1,20 @@
-/* Custom color theme: Soft Pearl / Parchment with Burgundy accent */
+/* Custom color theme: Terracotta & Clay (Earthy & Sophisticated) */
 :root {
-    /*--theme: #fdfaf6;
-    --entry: #faf7f2;
-    --primary: #2c2c2c;
-    --secondary: #5a5a5a;
-    --tertiary: #8d6959;
-    --content: #333333;
-    --code-bg: #f5f2f0;
-    --code-block-bg: #f5f2f0;
-    --border: #e8e4df;
-    */
-     /* Background: soft gray with a subtle plum tint */
-     --theme: #f4f2f7;        /* light neutral with a hint of purple */
-     --entry: #f1eef5;        /* cards slightly darker than background */
- 
-     /* Text: neutral‑to‑cool dark */
-     --primary: #26252d;
-     --secondary: #5c5a66;
-     --content: #302f38;
- 
-     /* Accent: desaturated eggplant / plum */
-     --tertiary: #6d5870;
- 
-     /* Code + borders: understated */
-     --code-bg: #ece8f2;
-     --code-block-bg: #ece8f2;
-     --border: #ddd7e4;
+    --theme: #fcfaf8;          /* Soft shell white */
+    --entry: #f5f1ed;          /* Soft clay gray */
+
+    /* Text: Earthy dark brown */
+    --primary: #352f2a;
+    --secondary: #7a7067;      /* Warm silt */
+    --content: #352f2a;
+
+    /* Accent: Muted terracotta */
+    --tertiary: #a6634b;
+
+    /* Code + borders: Warm neutral */
+    --code-bg: #efe9e4;
+    --code-block-bg: #efe9e4;
+    --border: #dfd8d1;
 }
 
 :root[data-theme="dark"] {
