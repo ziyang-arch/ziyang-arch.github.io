@@ -1,9 +1,46 @@
 ---
-title: "Example: Technology and Moral"
+title: "What morality do we need today"
 date: 2026-02-13
-draft: false
+draft: true
 categories: ["Technology and Moral"]
 tags: []
 ---
 
-This is an example post in the "Technology and Moral" category. When you write posts about ethics, philosophy, and technology, use this category.
+今天的世界变化的越来越快，技术手段催生着新的社会景观。这种不断丰富着人的感受的历史进程却让越来越多的人感到无所适从。
+因为物质的丰富带来了价值的真空，而人是不能接受价值的真空的。这也就是为什么我们需要新的道德（morality）来填补这种价值的真空。
+
+## 个人如何锚定自己的价值感
+
+历史上的道德， 从中国的春秋战国的孔子，或者是古希腊的苏格拉底，亚里士多德，他们这些人给出了适配他们时代的价值，
+
+道德就是给人精神上的依赖。尼采说，不能听命于自己者，就要受命于他人。
+
+道德也会随着社会的变化而演化， 会随着认知的变化而演化。
+当马基雅维利指出基督教的虚伪性后，教堂就不再是可以向需要信仰的人提供依赖的唯一去处了。
+
+虚无主义给社会带来了首次价值的真空
+
+康德的解法是对道德的绝对相信。 还有更多吗，我对康德的阅读还不多
+
+而尼采则让人们相信生命。
+
+
+AI时代的到来对人们价值观的改变在于人们曾经可以相信自己的“努力”创造价值，不再具有独特性
+
+
+
+## AI资本的约束和边界
+
+
+AI as the "Validation" of Randian Ideals
+
+
+安兰德所描述的Galt's Gulch有没有可能成为现实？ 
+
+
+
+
+过去, 平民推翻统治的可能性， 1. 物质可能性： 个人的手工生产力经过一定人数的管理可以与官方的生产力相抗衡。 2. 智力可能性：
+这个比较复杂， 首先在过去资本不等于智力，统治等于控制了社会主流资本，想要夺取资本可以依赖智力；   但是今天资本正在趋近于等于智力
+
+

@@ -21,6 +21,11 @@ theme = 'PaperMod'
     env = 'production'
     description = "PhD Student at UC Riverside | Meta Intern | ex Nvidia Intern"
     author = "Ziyang"
+
+    [params.utterances]
+        repo = "ziyang-arch/ziyang-arch.github.io" # Replace with your repo name
+        issueTerm = "pathname"
+        theme = "github-light"
     
     # Profile Mode (The "Academic" landing page)
     [params.profileMode]

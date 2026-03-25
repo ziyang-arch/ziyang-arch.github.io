@@ -1,7 +1,7 @@
 ---
 title: "Example: Musing"
 date: 2026-02-13
-draft: false
+draft: true
 categories: ["Musing"]
 tags: []
 ---
