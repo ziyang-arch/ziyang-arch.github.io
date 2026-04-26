@@ -8,6 +8,12 @@ A list of my publications. Full list and citation metrics: [Google Scholar](http
 
 ---
 
+<!-- **Improving the Observability of Collective Communication in Large Model Training with NCCL Inspector**  
+Z. Jia, S. Das, J. Sewall, P. Shamis, L. N. Bhuyan, D. Wong.  
+*In Submission*, 2026. -->
+
+
+
 **Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters**  
 F. Liu, Q. Pei, S. Chen, Y. Yuan, Q. Zhang, X. Zhu, Z. Jia, F. Xu, D. Zhang, et al.  
 *IEEE Transactions on Computers*, 2026.  
