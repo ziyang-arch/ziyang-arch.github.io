@@ -54,7 +54,7 @@ In Rand’s journals, the world is moved by a tiny elite of "Prime Movers," whil
 
 Today’s AI elite seem to be recreating this narrative. By monopolizing compute and data, they are attempting to build a digital "Galt’s Gulch"—a sanctuary of technology that is decoupled from the masses.
 
-### The Equation of Power: $Capital \approx Intelligence$
+### The Equation of Power: Capital ≈ Intelligence
 
 This is the most fundamental shift in power.
 
@@ -77,7 +77,7 @@ Rawls’s "Difference Principle" states that social and economic inequalities ar
 
 If Kant provided us with the "Base Protocol" of human dignity, then John Rawls provided the "Code Audit" for AI-era distribution.
 
-When we see the equation $Capital \approx Intelligence$ tearing society into "Compute Landlords" and "Digital Serfs," the Randian hero narrative is revealed as morally bankrupt. True elites should not be escapees in a "Galt’s Gulch"; they must be the executors of a social contract—recognizing that their intellectual leverage is a gift from the collective civilization and using it to drive a production revolution that benefits the very bottom of society.
+When we see the equation Capital ≈ Intelligence tearing society into "Compute Landlords" and "Digital Serfs," the Randian hero narrative is revealed as morally bankrupt. True elites should not be escapees in a "Galt’s Gulch"; they must be the executors of a social contract—recognizing that their intellectual leverage is a gift from the collective civilization and using it to drive a production revolution that benefits the very bottom of society.
 
 
 
