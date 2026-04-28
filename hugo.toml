@@ -1,6 +1,6 @@
 baseURL = "https://ziyang-arch.github.io/"
 languageCode = 'en-us'
-title = 'A Passanger' # on the life of boat I'm here to leave my trace 
+title = 'Ziyang Jia' # on the life of boat I'm here to leave my trace 
 theme = 'PaperMod'
 
 [menu]
@@ -30,7 +30,7 @@ theme = 'PaperMod'
     # Profile Mode (The "Academic" landing page)
     [params.profileMode]
         enabled = true
-        title = "A Passanger" 
+        title = "Ziyang Jia" 
         motto = "A passenger on this boat of life, here to leave my trace."
         subtitle = "PhD Student in CS @ UC Riverside | GPU Systems for LLM"
         #imageUrl = "/pictures/profile_volcanotop.jpeg" # Place photo in /static folder

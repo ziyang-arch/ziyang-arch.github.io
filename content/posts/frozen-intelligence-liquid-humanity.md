@@ -6,7 +6,7 @@ categories: ["Technology & Morality", "AI and Human"]
 tags: ["AI Morality", "AI Ethics", "Ayn Rand", "Immanuel Kant", "Nietzsche", "John Rawls"]
 ---
 
-Today’s world is moving at an unprecedented velocity. Technological breakthroughs are birthing new social landscapes daily, yet this historical process—while enriching our sensory experiences—leaves many feeling adrift.
+Today’s world is moving at an unprecedented velocity. Technological breakthroughs are birthing new social landscapes daily, yet this historical process, while enriching our sensory experiences, leaves many feeling adrift.
 
 The abundance of material wealth has brought about a vacuum of values. Human beings cannot tolerate a moral void; this is precisely why we need a new morality to anchor ourselves in the age of Artificial Intelligence.
 
@@ -29,7 +29,7 @@ The value of morality lies in its ability to affirm the individual, providing a 
 Immanuel Kant argued that morality is grounded in the autonomy of reason. He proposed the "Formula of Humanity":
 
 > "Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchest."
-> —— (Act in such a way that you treat humanity... always at the same time as an end, never merely as a means.)
+> , ,  (Act in such a way that you treat humanity... always at the same time as an end, never merely as a means.)
 
 In the AI age, this formula is our final defensive line. If a person's worth is defined solely by their productivity, then in the face of AI, humans become mere "tools with a price tag" rather than "ends with dignity."
 
@@ -38,9 +38,9 @@ In the AI age, this formula is our final defensive line. If a person's worth is 
 Nietzsche urged us to command ourselves. Without a new moral anchor, the extreme convenience provided by AI may push us toward what Nietzsche called the "Last Man" (Der letzte Mensch):
 
 > "One still works, for work is a form of entertainment. But one is careful lest the entertainment be too fiery."
-> —— Thus Spoke Zarathustra
+> , ,  Thus Spoke Zarathustra
 
-The risk of the AI era is that when "effort" loses its uniqueness, humanity may lose the "Will to Power"—the drive for self-overcoming—and instead stagnate in a mediocre comfort zone fed by algorithms.
+The risk of the AI era is that when "effort" loses its uniqueness, humanity may lose the "Will to Power", the drive for self-overcoming, and instead stagnate in a mediocre comfort zone fed by algorithms.
 
 ## AI Capital’s Constraints: Rand’s Mirage vs. Reality
 
@@ -50,9 +50,9 @@ The current narrative of the AI industry is, in many ways, a violent validation 
 
 In Rand’s journals, the world is moved by a tiny elite of "Prime Movers," while the rest are merely "parasites":
 
-> "The world is moved by the 'Prime Movers'—the men of creative ability. The rest of mankind are merely parasites." (1945 Journal)
+> "The world is moved by the 'Prime Movers', the men of creative ability. The rest of mankind are merely parasites." (1945 Journal)
 
-Today’s AI elite seem to be recreating this narrative. By monopolizing compute and data, they are attempting to build a digital "Galt’s Gulch"—a sanctuary of technology that is decoupled from the masses.
+Today’s AI elite seem to be recreating this narrative. By monopolizing compute and data, they are attempting to build a digital "Galt’s Gulch", a sanctuary of technology that is decoupled from the masses.
 
 ### The Equation of Power: Capital ≈ Intelligence
 
@@ -77,11 +77,11 @@ Rawls’s "Difference Principle" states that social and economic inequalities ar
 
 If Kant provided us with the "Base Protocol" of human dignity, then John Rawls provided the "Code Audit" for AI-era distribution.
 
-When we see the equation Capital ≈ Intelligence tearing society into "Compute Landlords" and "Digital Serfs," the Randian hero narrative is revealed as morally bankrupt. True elites should not be escapees in a "Galt’s Gulch"; they must be the executors of a social contract—recognizing that their intellectual leverage is a gift from the collective civilization and using it to drive a production revolution that benefits the very bottom of society.
+When we see the equation Capital ≈ Intelligence tearing society into "Compute Landlords" and "Digital Serfs," the Randian hero narrative is revealed as morally bankrupt. True elites should not be escapees in a "Galt’s Gulch"; they must be the executors of a social contract, recognizing that their intellectual leverage is a gift from the collective civilization and using it to drive a production revolution that benefits the very bottom of society.
 
 
 
-##At the End
+## At the End
 
 This is my immmature thoughts and there are more potential discussions on the detail of these topics. 
 I believe the discussion on these topics will be beneficial to the future and I hope I become part of it.

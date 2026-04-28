@@ -10,7 +10,7 @@ When I am working on a complex system, the boundary of what AI can understand an
 
 When I write articles, I don't want to use AI to generate them directly. It feels as if using AI diminishes my sense of existence. Am I simply missing that *feeling* of presence, or does the article itself actually lack something inherently mine?
 
-Imagine if everyone started using AI to assist their writing—would most people eventually become overwhelmingly similar? Then again, this seems to have always been the norm in human society; the expressions of the vast majority have always existed within a common, shared set.
+Imagine if everyone started using AI to assist their writing, would most people eventually become overwhelmingly similar? Then again, this seems to have always been the norm in human society; the expressions of the vast majority have always existed within a common, shared set.
 
 ## The Shift Towards High-Level Abstraction
 
@@ -34,6 +34,6 @@ While reflecting on my PhD journey, I suddenly realized the answer: even undergr
 
 A classmate once said, *"If you try to accomplish everything using AI, it won't be long before they realize they can just use AI to replace you entirely."*
 
-Later, while interacting and working with AI, I thought about this question. Then I suddenly understood: it is precisely *because* I use AI that I understand the boundaries of its capabilities—**what it cannot do**. This is exactly where my value lies. 
+Later, while interacting and working with AI, I thought about this question. Then I suddenly understood: it is precisely *because* I use AI that I understand the boundaries of its capabilities, **what it cannot do**. This is exactly where my value lies. 
 
 I cannot be certain if there will come a day when AI's boundaries stretch so far and develop so quickly that they outpace human intelligence entirely. But for today, I still believe that the things I do are not completely devoid of value.
