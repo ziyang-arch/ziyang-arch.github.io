@@ -1,7 +1,7 @@
 ---
 title: "Frozen Intelligence, Liquid Humanity: Reclaiming Dignity in a Capital ≈ Intelligence World"
 date: 2026-04-22
-draft: false
+draft: true
 categories: ["Technology & Morality", "AI and Human"]
 tags: ["AI Morality", "AI Ethics", "Ayn Rand", "Immanuel Kant", "Nietzsche", "John Rawls"]
 ---
