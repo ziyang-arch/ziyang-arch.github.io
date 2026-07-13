@@ -14,7 +14,7 @@ Z. Jia, S. Das, J. Sewall, P. Shamis, L. N. Bhuyan, D. Wong.
 
 **Energy-Efficient Multimodal Inference Serving with Tri-serve**  
 Z. Jia, S. Rashidi Golrouye, L. N. Bhuyan, B. Kubwimana, D. Tripathy, Z. Li, C. Liu, D. Wong.  
-*arXiv:2606.29629*, 2026. (Under review, IEEE International Conference on Computer Design (ICCD))  
+*arXiv:2606.29629*, 2026.  
 [arXiv](https://arxiv.org/abs/2606.29629)
 
 **Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters**  
