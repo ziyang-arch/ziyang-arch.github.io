@@ -33,7 +33,7 @@ I'm grateful to be able to participate in a series of research in the lab and co
 **System Software Engineer Intern** | *June 2024 - Sept 2024*, *June 2025 - Sept 2025*
 
 - Participated in the prototyping, function developing, real-world deployment, use case analysis of [NCCL Inspector](https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/). 
-- Publish some discoveries in out paper, Improving the Observability of Collective Communication in Large Model Training with NCCL Inspector
+- Published our discoveries in the paper "NIXT: A NCCL Inspector Exporter Tool for Observability of Collective Communication in Large Model Training", accepted at IISWC 2026.
 
 
 
