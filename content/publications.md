@@ -10,7 +10,8 @@ A list of my publications. Full list and citation metrics: [Google Scholar](http
 
 **NIXT: A NCCL Inspector Exporter Tool for Observability of Collective Communication in Large Model Training**  
 Z. Jia, S. Das, J. Sewall, L. N. Bhuyan, P. Shamis, D. Wong.  
-*IEEE International Symposium on Workload Characterization (IISWC)*, 2026. (To appear)
+*IEEE International Symposium on Workload Characterization (IISWC)*, 2026. (To appear)  
+[arXiv](https://arxiv.org/abs/2608.01449)
 
 **Energy-Efficient Multimodal Inference Serving with Tri-serve**  
 Z. Jia, S. Rashidi Golrouye, L. N. Bhuyan, B. Kubwimana, D. Tripathy, Z. Li, C. Liu, D. Wong.  
