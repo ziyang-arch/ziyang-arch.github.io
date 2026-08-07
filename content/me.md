@@ -43,6 +43,11 @@ I'm grateful to be able to participate in a series of research in the lab and co
 
 ## Experience
 
+### Meta
+**Research Scientist Intern, GenAI** | *June 2026 - Nov 2026*
+
+- Researching kernel-fusion opportunities in GenAI inference and developing a general performance model for kernel fusion targeting next-generation accelerators, to guide both software scheduling and hardware design decisions.
+
 ### NVIDIA
 **System Software Engineer Intern** | *June 2024 - Sept 2024*, *June 2025 - Sept 2025*
 
