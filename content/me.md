@@ -4,7 +4,10 @@ date: 2026-02-13
 ---
 <img src="/pictures/profile_2026v3.jpg" alt="Profile photo" class="about_me-photo" />
 
-My name is Ziyang Jia, a PhD student in Computer Science at UC Riverside, working on GPU systems for ML applications. 
+My name is Ziyang Jia, a PhD student in Computer Science at UC Riverside, working on GPU systems for ML applications.
+
+**Research interests:** GPU architecture, systems for machine learning, AI infrastructure, and green computing — with a focus on energy-efficient ML training and inference through power management, collective communication, and performance observability.
+
 
 ---
 
