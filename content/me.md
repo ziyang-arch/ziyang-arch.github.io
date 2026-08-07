@@ -20,7 +20,7 @@ My research centers on energy-efficient system software for large-scale ML — f
 
 - **[Tri-serve](https://arxiv.org/abs/2606.29629)** — an energy-efficient serving system for multimodal LLMs (e.g., Qwen2.5-Omni). It coordinates workload-aware GPU DVFS across the multimodal (Thinker/Talker/Vocoder) pipeline, jointly tackling dependency stalls, arithmetic-intensity mismatch under auto-boost, and thermal throttling to cut serving energy with negligible latency impact.
 
-- **NIXT** (IISWC 2026) — a NCCL Inspector eXporter Tool built during my NVIDIA internships, enabling fine-grained observability of collective communication in large-model training at scale (deployed on Nemotron-4 pretraining with up to 2048 H100 GPUs). See also the NVIDIA blog posts on [NCCL Inspector](https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/) and [real-time performance monitoring with NCCL Inspector and Prometheus](https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus/).
+- **[NIXT](https://arxiv.org/abs/2608.01449)** (IISWC 2026) — a NCCL Inspector eXporter Tool built during my NVIDIA internships, enabling fine-grained observability of collective communication in large-model training at scale (deployed on Nemotron-4 pretraining with up to 2048 H100 GPUs). See also the NVIDIA blog posts on [NCCL Inspector](https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/) and [real-time performance monitoring with NCCL Inspector and Prometheus](https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus/).
 
 - **[PCCL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hKWh7p4AAAAJ&citation_for_view=hKWh7p4AAAAJ:9yKSN-GCB0IC)** (ICCD 2024) — a Power-aware Collective Communication Library that applies per-operation GPU DVFS, exploiting the frequency-insensitivity of bandwidth-bound collectives to reduce collective energy by ~27% and end-to-end LLM training energy by 17.3% with negligible throughput impact.
 
@@ -47,7 +47,7 @@ I'm grateful to be able to participate in a series of research in the lab and co
 **System Software Engineer Intern** | *June 2024 - Sept 2024*, *June 2025 - Sept 2025*
 
 - Participated in the prototyping, function developing, real-world deployment, use case analysis of [NCCL Inspector](https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/). 
-- Published our discoveries in the paper "NIXT: A NCCL Inspector Exporter Tool for Observability of Collective Communication in Large Model Training", accepted at IISWC 2026.
+- Published our discoveries in the paper ["NIXT: A NCCL Inspector Exporter Tool for Observability of Collective Communication in Large Model Training"](https://arxiv.org/abs/2608.01449), accepted at IISWC 2026.
 
 
 
