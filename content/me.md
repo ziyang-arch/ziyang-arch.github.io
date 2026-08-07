@@ -29,7 +29,7 @@ My research centers on energy-efficient system software for large-scale ML — f
 
 - **[PCCL](/research/pccl/)** (ICCD 2024) — a Power-aware Collective Communication Library that applies per-operation GPU DVFS, exploiting the frequency-insensitivity of bandwidth-bound collectives to reduce collective energy by ~27% and end-to-end LLM training energy by 17.3% with negligible throughput impact.
 
-- **Energy-efficient cooling systems** — my earlier research at HUST on improving datacenter economy with warm-water cooling, including fine-grained warm water cooling (ISCA 2019) and thermal energy harvesting/recycling for warm water-cooled datacenters (ISCA 2020), along with other works on cloud/edge datacenter energy optimization.
+- **[Energy-efficient cooling systems](/research/energy-efficient-cooling/)** — my earlier research at HUST on improving datacenter economy with warm-water cooling, including fine-grained warm water cooling (ISCA 2019) and thermal energy harvesting/recycling for warm water-cooled datacenters (ISCA 2020), along with other works on cloud/edge datacenter energy optimization.
 
 ---
 
