@@ -14,6 +14,20 @@ My name is Ziyang Jia, a PhD student in Computer Science at UC Riverside, workin
 
 ---
 
+## Research
+
+My research centers on energy-efficient system software for large-scale ML — from GPU power management and communication observability up to datacenter cooling.
+
+- **[Tri-serve](https://arxiv.org/abs/2606.29629)** — an energy-efficient serving system for multimodal LLMs (e.g., Qwen2.5-Omni). It coordinates workload-aware GPU DVFS across the multimodal (Thinker/Talker/Vocoder) pipeline, jointly tackling dependency stalls, arithmetic-intensity mismatch under auto-boost, and thermal throttling to cut serving energy with negligible latency impact.
+
+- **NIXT** (IISWC 2026) — a NCCL Inspector eXporter Tool built during my NVIDIA internships, enabling fine-grained observability of collective communication in large-model training at scale (deployed on Nemotron-4 pretraining with up to 2048 H100 GPUs). See also the [NCCL Inspector blog post](https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/).
+
+- **[PCCL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hKWh7p4AAAAJ&citation_for_view=hKWh7p4AAAAJ:9yKSN-GCB0IC)** (ICCD 2024) — a Power-aware Collective Communication Library that applies per-operation GPU DVFS, exploiting the frequency-insensitivity of bandwidth-bound collectives to reduce collective energy by ~27% and end-to-end LLM training energy by 17.3% with negligible throughput impact.
+
+- **Energy-efficient cooling systems** — my earlier research at HUST on improving datacenter economy with warm-water cooling, including fine-grained warm water cooling (ISCA 2019) and thermal energy harvesting/recycling for warm water-cooled datacenters (ISCA 2020), along with other works on cloud/edge datacenter energy optimization.
+
+---
+
 ## Education
 
 ### University of California, Riverside
