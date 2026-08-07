@@ -1,7 +1,7 @@
 ---
 title: "My Value in the AI Era"
 date: 2026-04-26
-draft: false
+draft: true
 categories: ["Miscellany", "AI and Human"]
 tags: ["AI", "Self-Reflection"]
 ---
