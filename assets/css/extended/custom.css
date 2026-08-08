@@ -132,3 +132,51 @@
     display: block;
     margin: 0 auto 1.5rem auto;  /* center it and add bottom space */
 }
+
+/* Research cards on About me page — whole box is a link */
+.post-content a.research-card {
+    display: block;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    box-shadow: none;            /* cancel PaperMod link underline */
+    color: var(--content);
+    transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+}
+
+.post-content a.research-card:hover {
+    border-color: var(--tertiary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+.post-content a.research-card:active {
+    transform: scale(0.98);
+}
+
+.research-card-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--primary);
+    margin-bottom: 0.35rem;
+}
+
+.research-card-title .venue {
+    color: var(--secondary);
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.research-card-title .arrow {
+    color: var(--tertiary);
+    font-weight: 400;
+}
+
+.research-card-desc {
+    color: var(--secondary);
+    font-size: 0.92rem;
+    line-height: 1.55;
+    margin: 0 !important;
+}
