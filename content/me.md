@@ -15,6 +15,8 @@ In life, I'm a music lover and like to play Chopin and jazz on piano. As a tenni
 
 ## News
 
+- 🎉 **Aug 2026:** DATE-serve accepted at **ICCD 2026** as a regular paper!
+- 🎉 **Aug 2026:** NIXT accepted at **IISWC 2026**!
 - 🎉 I will be joining Meta's AI System SW/HW co-design team as a research scientist intern in June!
 
 ---
@@ -23,8 +25,8 @@ In life, I'm a music lover and like to play Chopin and jazz on piano. As a tenni
 
 My research centers on energy-efficient system software for large-scale ML — from GPU power management and communication observability up to datacenter cooling.
 
-<a class="research-card" href="/research/tri-serve/">
-<div class="research-card-title">Tri-serve <span class="arrow">→</span></div>
+<a class="research-card" href="/research/date-serve/">
+<div class="research-card-title">DATE-serve <span class="venue">(ICCD 2026)</span> <span class="arrow">→</span></div>
 <p class="research-card-desc">An energy-efficient serving system for multimodal LLMs (e.g., Qwen2.5-Omni). It coordinates workload-aware GPU DVFS across the multimodal (Thinker/Talker/Vocoder) pipeline, jointly tackling dependency stalls, arithmetic-intensity mismatch under auto-boost, and thermal throttling to cut serving energy with negligible latency impact.</p>
 </a>
 
@@ -79,7 +81,7 @@ I'm grateful to be able to participate in a series of research in the lab and co
 - Profiled and benchmarked the performance and energy consumption of various LLMs (e.g., qwen-2.5-7b,) on the vLLM and vllm-omni engine to identify computational and power bottlenecks.
 - Engineered novel power-management techniques by instrumenting the vLLM library, utilizing DVFS to optimize GPU power states during inference.
 - Proposed an analysis technique (Interpretive Trace Analysis) to provide insights from idleness in distributed GPU workloads.
-- Developed energy-saving techniques for LLM training on top of the NCCL collective communication library. This work led to [PCCL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hKWh7p4AAAAJ&citation_for_view=hKWh7p4AAAAJ:9yKSN-GCB0IC) (ICCD 2024), a power-aware collective communication library that applies per-operation DVFS to reduce training energy with negligible throughput impact, and was extended to multimodal inference serving in [Tri-serve](https://arxiv.org/abs/2606.29629), an energy-efficient serving system that coordinates DVFS across the multimodal pipeline.
+- Developed energy-saving techniques for LLM training on top of the NCCL collective communication library. This work led to [PCCL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hKWh7p4AAAAJ&citation_for_view=hKWh7p4AAAAJ:9yKSN-GCB0IC) (ICCD 2024), a power-aware collective communication library that applies per-operation DVFS to reduce training energy with negligible throughput impact, and was extended to multimodal inference serving in [DATE-serve](https://arxiv.org/abs/2606.29629) (ICCD 2026), an energy-efficient serving system that coordinates DVFS across the multimodal pipeline.
 
 
 **Teaching Assistant** | *July 2022 - Dec 2022*
