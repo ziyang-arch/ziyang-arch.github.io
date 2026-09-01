@@ -13,7 +13,7 @@ Z. Jia, S. Das, J. Sewall, L. N. Bhuyan, P. Shamis, D. Wong.
 *IEEE International Symposium on Workload Characterization (IISWC)*, 2026. (To appear)  
 [arXiv](https://arxiv.org/abs/2608.01449)
 
-**DATE-serve: Orchestrating Dependency, Arithmetic Intensity, and Thermal-awareness for Energy-Efficient Multimodal Inference**  
+**Energy-Efficient Multimodal Inference Serving with DATE-serve**  
 Z. Jia, S. Rashidi Golrouye, L. N. Bhuyan, B. Kubwimana, D. Tripathy, Z. Li, C. Liu, D. Wong.  
 *IEEE International Conference on Computer Design (ICCD)*, 2026. (To appear)  
 [arXiv](https://arxiv.org/abs/2606.29629)

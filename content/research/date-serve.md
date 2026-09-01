@@ -29,5 +29,5 @@ On Qwen2.5-Omni serving workloads, DATE-serve reduces serving energy by double-d
 
 ## Publication
 
-- **"DATE-serve: Orchestrating Dependency, Arithmetic Intensity, and Thermal-awareness for Energy-Efficient Multimodal Inference"** — accepted at **ICCD 2026** (regular paper). To appear.
+- **"Energy-Efficient Multimodal Inference Serving with DATE-serve"** — accepted at **ICCD 2026** (regular paper). To appear.
 - Preprint (earlier version, as *Tri-serve*): [arXiv:2606.29629](https://arxiv.org/abs/2606.29629)
