@@ -35,7 +35,7 @@ theme = 'PaperMod'
     [params.profileMode]
         enabled = true
         title = "Ziyang Jia" 
-        motto = "A passenger on this boat of life, here to leave my trace."
+        motto = "Ich liebe Alle, welche wie schwere Tropfen sind, einzeln fallend aus der dunklen Wolke, die über dem Menschen hängt: sie verkündigen, dass der Blitz kommt, und gehn als Verkündiger zu Grunde."
         subtitle = "PhD Student in CS @ UC Riverside | Energy-Efficient GPU Systems for ML Training & Inference | Power · Collective Communication · Performance Observability"
         #imageUrl = "/pictures/profile_volcanotop.jpeg" # Place photo in /static folder
         #imageWidth = 180
