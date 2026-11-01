@@ -14,7 +14,7 @@ In life, I'm a music lover and like to play Chopin and jazz on piano. As a tenni
 ## Experience
 
 ### Meta
-**Research Scientist Intern, GenAI** | *June 2026 - Nov 2026*
+**Research Scientist Intern, AI System Co-design** | *June 2026 - Nov 2026*
 
 - Researching kernel-fusion opportunities in GenAI inference and developing a general performance model for kernel fusion targeting next-generation accelerators, to guide both software scheduling and hardware design decisions.
 
