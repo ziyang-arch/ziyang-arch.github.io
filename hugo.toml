@@ -43,6 +43,9 @@ theme = 'PaperMod'
 
     # Social Icons
     [[params.socialIcons]]
+        name = "email"
+        url = "mailto:ziyang.jia@ucr.edu"
+    [[params.socialIcons]]
         name = "github"
         url = "https://github.com/ziyang-arch"
     [[params.socialIcons]]
